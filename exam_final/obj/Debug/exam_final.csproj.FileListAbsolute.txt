@@ -1,0 +1,8 @@
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\bin\Debug\exam_final.exe.config
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\bin\Debug\exam_final.exe
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\bin\Debug\exam_final.pdb
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\obj\Debug\exam_final.csproj.AssemblyReference.cache
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\obj\Debug\exam_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\obj\Debug\exam_final.csproj.CoreCompileInputs.cache
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\obj\Debug\exam_final.exe
+C:\Users\patip\OneDrive\เอกสาร\ปวส2 เทอม2\dotnet\exam_final\exam_final\obj\Debug\exam_final.pdb
